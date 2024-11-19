@@ -1,4 +1,4 @@
-# Hospitality Insights for AtliQ Grands
+# AtliQ Grands: Revenue Growth and Guest Experience Optimization
 
 ![AtliQ Grands Banner](Cover.png) <!-- Add a high-quality banner image with AtliQ Grands logo and title -->
 
